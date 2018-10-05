@@ -7,3 +7,7 @@ Here's the banner we made (on vinyl, with love, Sharpies, and zero support from 
 ## Work in Progress
 
 <img src="https://raw.githubusercontent.com/kentbrew/i-believe-survivors/master/in_progress.jpg" alt="Work in progress"/>
+
+## Pull Requests Gratefully Appreciated
+
+This is a hand-whittled SVG made with nothing but a text editor, because I couldn't find a usable font anywhere.  If you're an artist and something's bugging you about layout, kerning, etc., please fix the SVG or throw up a new version.  Thanks!
